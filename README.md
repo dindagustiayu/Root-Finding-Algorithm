@@ -50,7 +50,7 @@ The bisection method introduces a simple idea to hone in on the root. This metho
 
 $x_{n+1} = (a + b) /2$$
 
-$$ \mbox{If} f(x_{n+1} \times f(a) > 1 \mbox{then let} a = x_{n+1})$$
+$$ \mbox{If} f(x_{n+1} \times f(a) > 1 \mbox{then let} \ a = x_{n+1})$$
 
 If $f(x_{n+1} \times f(b) >1)$ then let $a =x_{n+1}$. Thus the new $[a, \ b]$ is a smaller interval that brackets the root.
 
